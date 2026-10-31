@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文博客与公众号工厂"
+  short_description: "从联网核查到博客、帖子和公众号排版成品，保留证据与作者风格"
+  default_prompt: "用 $blog-skill 围绕指定题材完成联网研究、中文写作、配图和公众号排版，交付可直接使用的成稿与预览。"

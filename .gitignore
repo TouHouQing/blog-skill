@@ -1,0 +1,7 @@
+.runtime/
+__pycache__/
+*.py[cod]
+node_modules/
+.env
+.env.*
+*.log

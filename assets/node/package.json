@@ -1,0 +1,13 @@
+{
+  "name": "blog-skill-local-renderer",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Local Markdown, syntax highlighting and CSS inlining; no paid providers.",
+  "engines": { "node": ">=20.18.1" },
+  "dependencies": {
+    "marked": "15.0.12",
+    "marked-cjk-friendly": "0.1.2",
+    "highlight.js": "11.11.1",
+    "juice": "11.0.1"
+  }
+}

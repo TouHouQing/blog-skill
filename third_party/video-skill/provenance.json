@@ -1,0 +1,24 @@
+{
+  "base_repository": "https://github.com/TouHouQing/video-skill",
+  "base_commit": "ed8e0c4bf7779bd95bf2743672c6436d6644472f",
+  "files": [
+    {
+      "path": "scripts/collect.py",
+      "source_path": "skills/free-ai-video/scripts/collect.py",
+      "source_sha256": "bca3f8bef0c7888dc6e7420162ae2d269caaf67b3055ac5bab24891658f62e6d",
+      "local_sha256": "f99bcda71e26c76a8ef861820671ac896aa053e0c5e37d4b28d07e52ca35e7e3",
+      "changes": [
+        "Independent blog runtime; configurable discovery filter and user agent."
+      ]
+    },
+    {
+      "path": "scripts/runtime.py",
+      "source_path": "skills/free-ai-video/scripts/runtime.py",
+      "source_sha256": "bf1776087de9d732e6061d1e1c6f82d8b0fd9835bb2515d4eedd9a6804b058be",
+      "local_sha256": "b52a71112cf2956d87eba5aadc8a2d741a57bcfbb80272c989e9637fdbc5ee09",
+      "changes": [
+        "Removed video/toolchain helpers; added isolated Node runtime discovery."
+      ]
+    }
+  ]
+}

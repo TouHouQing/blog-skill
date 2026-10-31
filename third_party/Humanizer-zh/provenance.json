@@ -1,0 +1,15 @@
+{
+  "repository": "https://github.com/op7418/Humanizer-zh",
+  "commit": "f4518a8eab97b8bfebc66a89d34320a89bef6930",
+  "license": "MIT",
+  "upstream_path": "SKILL.md",
+  "upstream_sha256": "95627fd4437d886f98032ccc62d79136e6310f1fc04e354bb86431795ff206df",
+  "local_path": "references/chinese-editing.md",
+  "local_sha256": "c13b2af709664f8111ba0975e75183074e158915caba7dec125897d272073f85",
+  "changes": [
+    "Condensed factual-preservation and contextual-editing guidance for article production.",
+    "Kept genre distinctions and protected code, links and qualifiers.",
+    "Added continuity and revision preferences; no third-party author identity.",
+    "Added contextual guidance from user-edited tutorial samples on redundant introductions and explanation placement."
+  ]
+}
